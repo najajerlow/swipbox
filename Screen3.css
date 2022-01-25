@@ -1,0 +1,62 @@
+header{
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.body {
+    width: 100%;
+    height: 100%;
+    color: #8D8C8C;
+    margin:0em;
+}
+
+.back__butten {
+    margin-left: 2em;
+}
+
+.question__logo{
+    margin-left: 25em;
+}
+
+.start__text{
+    position: absolute;
+    left: 45%;
+    margin-top: 57%;
+    font-family: Malayalam Sangam MN;
+    color: #ffffff;
+
+}
+
+
+main{
+    height: 61em;
+    background-color: #8D8C8C;
+    width: 37em;
+    display: flex;
+    flex-direction: column;
+}
+
+.DHL__footer {
+    width: 37em;  
+}
+
+
+
+button{
+   
+    height: 60px;
+    width: 40%;
+    background-color:#D40511;
+    border:0em;
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30em;
+    color: #FFFFFF;
+    
+}
